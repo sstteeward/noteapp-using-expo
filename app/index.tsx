@@ -173,7 +173,7 @@ export default function Home() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: "#fff", padding: 20, paddingTop: 60 },
+  container: { flex: 1, backgroundColor: "#fff", padding: 20, paddingTop: 10 },
 
   // Header
   headerRow: {
